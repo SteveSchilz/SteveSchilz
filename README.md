@@ -9,14 +9,14 @@
 # Welcome!
 This is my Personal GitHub page as as Software Engineer, where I have some example code serving as a professional portfolio
 
-I have been a professional software engineer since 1989, but I just started this note archive in 2023, when I discovered [Personal Knowledge Management Systems](https://github.com/SteveSchilz/KnowledgeSystems)
+I have been a professional software engineer since 1989, and have worked in the medical, science education, and electronics industries. 
 
 **My Professional Reference Links are:** 
 
 - [Linkedin.com/in/SteveSchilz](https://linkedin.com/in/SteveSchilz) - My Linked In Page
-- [Github:SteveSchilz](https://github.com/SteveSchilz/Solitaire). (This Repo) - Software Examples
+- [Github:SteveSchilz](https://github.com/SteveSchilz/Solitaire). (This Repo) - Software Sample Code
 - [GitHub:StevesKnowledge](https://github.com/stevesKnowledge) - Notes about building a personal WIKI/Second Brain System using Obsidian and Markdown
-- [StackOverflow.com/user/54721/SteveS](https://stackoverflow.com/users/54721/steves) - I have a number answers on StackOverflow, most related to my time developing video applications at Pasco Scientific
+- [StackOverflow.com/user/54721/SteveS](https://stackoverflow.com/users/54721/steves) - I have a number answers on StackOverflow. 
 
 
 

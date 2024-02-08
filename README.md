@@ -1,10 +1,10 @@
 # SteveSchilz
 # Primary GitHub Profile for Steve Schilz, a C++/Qt/Python/React Developer from Sacramento, CA
 
+<div align="center"> ![icons-c++144x144|96](./images/icons-c++144x144.png) ![icons-qt144x115|96](./images/icons-qt144x115.png)![icons-python144x144|96](./images/icons-python144x144.png) </div>
 
+<div align="center">![icons-react-native-144|96](./images/icons-react-native-144.png) ![icons-html-144x144|96](./images/icons-html-144x144.png) ![icons-javascript144x144|96](./images/icons-javascript144x144.png) ![icons-css144x144|96](./images/icons-css144x144.png)</div>
 
-![icons-c++144x144|96](./images/icons-c++144x144.png) ![icons-python144x144|96](./images/icons-python144x144.png)![icons-react-native-144|96](./images/icons-react-native-144.png) ![icons-html-144x144|96](./images/icons-html-144x144.png) ![icons-javascript144x144|96](./images/icons-javascript144x144.png) ![icons-css144x144|96](./images/icons-css144x144.png)
-**Table of Contents**
 
 # Welcome!
 This is my Personal GitHub page as as Software Engineer, where I have some example code serving as a professional portfolio
